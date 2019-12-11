@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Item)">460f3d9bdb2d8010d0ead426ca961940</button>
+        <button_parent_table>x_myapps_expense_item</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>transaction_date</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>Transaction date</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-12-11 12:07:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>460f3d9bdb2d8010d0ead426ca961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transaction date</sys_name>
+        <sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_460f3d9bdb2d8010d0ead426ca961942</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-12-11 12:07:54</sys_updated_on>
+        <table_name>x_myapps_expense_item</table_name>
+    </sys_sg_ui_parameter>
+</record_update>

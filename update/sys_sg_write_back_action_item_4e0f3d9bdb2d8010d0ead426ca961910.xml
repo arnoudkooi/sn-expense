@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete (Expense Report)</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-12-11 12:07:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4e0f3d9bdb2d8010d0ead426ca961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Expense Report)</sys_name>
+        <sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_4e0f3d9bdb2d8010d0ead426ca961910</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-12-11 12:07:53</sys_updated_on>
+        <table>x_myapps_expense_expense_report</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Expense Report</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Expense Report</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">233dc094db13320059815665dc9619e5</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-12-11 12:37:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>57b54a57dbadc850d129b842ca9619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Report</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope>
+        <sys_update_name>sys_wizard_answer_57b54a57dbadc850d129b842ca9619d9</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-12-11 12:37:12</sys_updated_on>
+        <table/>
+        <target_url>x_myapps_expense_expense_report.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>state</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>20</order>
+        <record_id_field/>
+        <screen display_value="Details">f10f3d9bdb2d8010d0ead426ca96190c</screen>
+        <screen_data_item_table>x_myapps_expense_expense_report</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-12-11 12:07:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ca0f3d9bdb2d8010d0ead426ca96191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_screen_field_ca0f3d9bdb2d8010d0ead426ca96191f</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-12-11 12:07:54</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

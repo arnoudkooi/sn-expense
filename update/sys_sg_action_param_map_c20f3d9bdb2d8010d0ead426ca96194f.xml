@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Item)">ca0f3d9bdb2d8010d0ead426ca96194a</button>
+        <item_parameter display_value="Item business_purpose">4a0f3d9bdb2d8010d0ead426ca961948</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-12-11 12:07:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c20f3d9bdb2d8010d0ead426ca96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4a0f3d9bdb2d8010d0ead426ca961948</sys_name>
+        <sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_c20f3d9bdb2d8010d0ead426ca96194f</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-12-11 12:07:54</sys_updated_on>
+        <ui_parameter display_value="Business purpose">ca0f3d9bdb2d8010d0ead426ca96194b</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

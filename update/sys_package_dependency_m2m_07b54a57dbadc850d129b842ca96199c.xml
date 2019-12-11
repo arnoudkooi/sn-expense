@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">4b2d4c54db13320059815665dc96197a</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-12-11 11:57:52</sys_created_on>
+        <sys_id>07b54a57dbadc850d129b842ca96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-12-11 11:57:52</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

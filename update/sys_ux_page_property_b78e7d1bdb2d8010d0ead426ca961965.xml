@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Include/exclude workspace notification</description>
+        <name>ws_active_notification</name>
+        <page display_value="Expense">bf8e7d1bdb2d8010d0ead426ca961962</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-12-11 12:05:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b78e7d1bdb2d8010d0ead426ca961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_active_notification</sys_name>
+        <sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope>
+        <sys_update_name>sys_ux_page_property_b78e7d1bdb2d8010d0ead426ca961965</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-12-11 12:05:50</sys_updated_on>
+        <type>boolean</type>
+        <unique_name>x_myapps_expense.ws_active_notification</unique_name>
+        <value>true</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=b78e7d1bdb2d8010d0ead426ca961965"/>
+</record_update>

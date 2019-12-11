@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <datasource_table>x_myapps_expense_expense_report</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Expense Report Form Screen">f90f3d9bdb2d8010d0ead426ca96190b</embedded_screen>
+        <item_view display_value="Expense Report List Screen Item View">fd0f3d9bdb2d8010d0ead426ca961909</item_view>
+        <name>Expense Report master_item</name>
+        <screen/>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>Arnoud.Kooi</sys_created_by>
+        <sys_created_on>2019-12-11 12:07:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8e0f3d9bdb2d8010d0ead426ca96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Report master_item</sys_name>
+        <sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope>
+        <sys_update_name>sys_sg_master_item_8e0f3d9bdb2d8010d0ead426ca96190e</sys_update_name>
+        <sys_updated_by>Arnoud.Kooi</sys_updated_by>
+        <sys_updated_on>2019-12-11 12:07:53</sys_updated_on>
+        <table/>
+    </sys_sg_master_item>
+</record_update>
