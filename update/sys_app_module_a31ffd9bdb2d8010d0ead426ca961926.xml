@@ -3,9 +3,8 @@
         <active>true</active>
         <application display_value="Expense">eb1ff55bdb2d8010d0ead426ca961942</application>
         <assessment/>
-        <content_page/>
         <device_type/>
-        <filter table="x_myapps_expense_expense_report">active=true^EQ<item display_value="true" endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        <filter table="x_myapps_expense_expense_report">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>
@@ -21,12 +20,9 @@
         <query/>
         <report/>
         <roles/>
-        <survey/>
-        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>Arnoud.Kooi</sys_created_by>
         <sys_created_on>2019-12-11 12:08:16</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a31ffd9bdb2d8010d0ead426ca961926</sys_id>
@@ -35,7 +31,6 @@
         <sys_overrides/>
         <sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope>
         <sys_update_name>sys_app_module_a31ffd9bdb2d8010d0ead426ca961926</sys_update_name>
         <sys_updated_by>Arnoud.Kooi</sys_updated_by>

@@ -20,5 +20,11 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Transaction date" max_length="40" name="transaction_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Vendor name" max_length="40" name="vendor_name" type="string"/>
+        <index name="index">
+            <element name="expense_report"/>
+        </index>
+        <index name="index2">
+            <element name="employee"/>
+        </index>
     </element>
 </database>

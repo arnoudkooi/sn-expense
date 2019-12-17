@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="receipt_status" table="x_myapps_expense_item" version="3">
+    <sys_choice action="DELETE" field="receipt_status" table="x_myapps_expense_item" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>receipt_status</element>
@@ -9,15 +9,14 @@
             <language>en</language>
             <name>x_myapps_expense_item</name>
             <sequence/>
-            <sys_class_name>sys_choice</sys_class_name>
-            <sys_created_by>Arnoud.Kooi</sys_created_by>
-            <sys_created_on>2019-12-11 12:03:39</sys_created_on>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-17 11:49:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7b0e351bdb2d8010d0ead426ca9619b7</sys_id>
+            <sys_id>896478d10dbd00107f44f6e84e457463</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
-            <sys_updated_on>2019-12-11 12:03:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-17 11:49:39</sys_updated_on>
             <value>no</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -29,34 +28,76 @@
             <language>en</language>
             <name>x_myapps_expense_item</name>
             <sequence/>
-            <sys_class_name>sys_choice</sys_class_name>
-            <sys_created_by>Arnoud.Kooi</sys_created_by>
-            <sys_created_on>2019-12-11 12:03:39</sys_created_on>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-17 11:49:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7f0e351bdb2d8010d0ead426ca9619b4</sys_id>
+            <sys_id>c96478d10dbd00107f44f6e84e457463</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
-            <sys_updated_on>2019-12-11 12:03:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-17 11:49:39</sys_updated_on>
             <value>yes</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>receipt_status</element>
             <name>x_myapps_expense_item</name>
             <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>Arnoud.Kooi</sys_created_by>
-            <sys_created_on>2019-12-11 12:03:39</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>0cc58a57dbadc850d129b842ca9619a7</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-17 11:49:39</sys_created_on>
+            <sys_id>cd6478d10dbd00107f44f6e84e457463</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>receipt_status</sys_name>
             <sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope>
             <sys_update_name>sys_choice_x_myapps_expense_item_receipt_status</sys_update_name>
-            <sys_updated_by>Arnoud.Kooi</sys_updated_by>
-            <sys_updated_on>2019-12-11 12:03:39</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-17 11:49:39</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</application>
+        <file_path/>
+        <instance_id>f6621b891b754c90b749cb751a4bcbf7</instance_id>
+        <instance_name>ccwbldr1-dec-910-001-instructor</instance_name>
+        <name>sys_choice_x_myapps_expense_item_receipt_status</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="receipt_status" table="x_myapps_expense_item" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>receipt_status</element><hint/><inactive>false</inactive><label>No</label><language>en</language><name>x_myapps_expense_item</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-17 11:49:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>896478d10dbd00107f44f6e84e457463</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-17 11:49:39</sys_updated_on><value>no</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>receipt_status</element><hint/><inactive>false</inactive><label>Yes</label><language>en</language><name>x_myapps_expense_item</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-17 11:49:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c96478d10dbd00107f44f6e84e457463</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-17 11:49:39</sys_updated_on><value>yes</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>receipt_status</element><name>x_myapps_expense_item</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-17 11:49:39</sys_created_on><sys_id>cd6478d10dbd00107f44f6e84e457463</sys_id><sys_mod_count>0</sys_mod_count><sys_name>receipt_status</sys_name><sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package><sys_policy/><sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope><sys_update_name>sys_choice_x_myapps_expense_item_receipt_status</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-17 11:49:39</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-2144683230</payload_hash>
+        <record_name>Item.Receipt status</record_name>
+        <reverted_from/>
+        <source>09b63c21a91000107f4478b2edd08ef4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2019-10-04 17:04:02</sys_created_on>
+        <sys_id>b3647cd10dbd00107f44f6e84e4574da</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>16d97ba73d00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Choice list</type>
+        <update_guid>73647cd1ddbd0010722a3aea10971fda</update_guid>
+        <update_guid_history>73647cd1ddbd0010722a3aea10971fda:-2144683230</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-17 11:49:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>cd6478d10dbd00107f44f6e84e457463</sys_id>
+        <sys_metadata>cd6478d10dbd00107f44f6e84e457463</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>receipt_status</sys_name>
+        <sys_package display_value="Expense" source="x_myapps_expense">f9dbb197db2d8010d0ead426ca9619f8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Expense">f9dbb197db2d8010d0ead426ca9619f8</sys_scope>
+        <sys_scope_delete display_value="">26f8c9282aca44c0a1a3d1ff90c8b710</sys_scope_delete>
+        <sys_update_name>sys_choice_x_myapps_expense_item_receipt_status</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_myapps_expense_item_receipt_status">b3647cd10dbd00107f44f6e84e4574da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-17 11:49:49</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>

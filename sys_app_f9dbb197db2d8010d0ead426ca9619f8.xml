@@ -40,7 +40,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>expense.png</file_name>
         <hash>2330c274b5cf174c740ee17419403261b427f1b04cbdcef94380c54e69306d62</hash>
         <image_height/>
